@@ -31,7 +31,7 @@ end
 
 - sexuality: gay/ceterosexual
   
-- pronouns: him, velvet, velvetee, viel, veil, her, xem, vir
+- pronouns: him, velvet, velvetee, viel, veil, xem, vir
   
 - friends: A & K
   
@@ -45,7 +45,7 @@ end
 
 - best subject: ELA, social studies
 
-- comfort character: badware variation
+- comfort character: badware variation, eggson
 
 - main music composer: hot freaks, mili
 
