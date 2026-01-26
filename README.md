@@ -47,6 +47,6 @@ end
 
 - comfort character: badware variation, eggson
 
-- main music composer: hot freaks, mili
+- main music composer: hot freaks, mili, femtanyl
 
 umm
